@@ -50,13 +50,12 @@ Going left, the next digit is 0, so there is no double-blink.
 Going left again, the next digit is 0, so you leave your eyes open.
 Going left again, the next digit is 1, so you jump.
 That was the last digit, so the final code is:
-
 wink, jump
-Given the number 26, which is 11010 in binary, we get the following actions:
 
+Given the number 26, which is 11010 in binary, we get the following actions:
 double blink
 jump
 reverse actions
-The secret handshake for 26 is therefore:
 
+The secret handshake for 26 is therefore:
 jump, double blink
