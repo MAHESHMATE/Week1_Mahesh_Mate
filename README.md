@@ -1,4 +1,13 @@
 # Week1_Mahesh_Mate
+
+#Steps to run the project
+
+npm i
+
+npm run build
+
+npm start
+
 1. Create a basic server using NodeJS , Express, TypeScript and do the followinng in seperate apis respectively
 in same app.ts
 
